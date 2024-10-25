@@ -1,12 +1,15 @@
 # Acrss
 AC Repair and Services System is a web-based application for clients to book air conditioner repair services online. Built with PHP and MySQL, it features a user-friendly interface using Bootstrap 5 and NiceAdmin Template, offering convenient and efficient booking with multiple functionalities for a seamless user experience.
- The system includes login, signup with email verification, and various functionalities to ensure a seamless booking experience for clients.
+
+The system includes login, signup with email verification, and various functionalities to ensure a seamless booking experience for clients.
 
 How to Run?
 Requirements
 
 Download and Install any local web server such as XAMPP.
+
 Download the provided source code zip file. 
+
 System Installation/Setup
 
 1) Enable the GD Library in your php.ini file.
@@ -20,5 +23,8 @@ System Installation/Setup
 
 
 Default Admin Access
+
 Username: admin
+
 Password: admin123
+
