@@ -6,17 +6,17 @@ How to Run?
 Requirements
 
 Download and Install any local web server such as XAMPP.
-Download the provided source code zip file. (download button is located below)
+Download the provided source code zip file. 
 System Installation/Setup
 
-Enable the GD Library in your php.ini file.
-Open your XAMPP Control Panel and start Apache and MySQL.
-Extract the downloaded source code zip file.
-Copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory.
-Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
-Create a new database named acrss_db.
-Import the provided SQL file. The file is known as acrss_db.sql located inside the database folder.
-Browse the AC Repair and Services System in a browser. i.e. http://localhost/php-acrss/.
+1) Enable the GD Library in your php.ini file.
+2) Open your XAMPP Control Panel and start Apache and MySQL.
+3) Extract the downloaded source code zip file.
+4) Copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory.
+5) Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
+6) Create a new database named acrss_db.
+7) Import the provided SQL file. The file is known as acrss_db.sql located inside the database folder.
+8) Browse the AC Repair and Services System in a browser. i.e. http://localhost/php-acrss/.
 
 
 Default Admin Access
